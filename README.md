@@ -7,7 +7,7 @@ Welcome to the Investment Analysis Project repository. This project aims to anal
 ## Table of Contents
 
 - [Task 1 Data Exploration and Summary]
-- [Task 2 Gender Based Analysis](![Screenshot 2024-06-30 182418])
+- [Task 2 Gender Based Analysis]
 - [Task 3 Objective Analysis]
 - [Task 4 Investment Duration and Frequency]
 - [Task 5: Reasons for Investment]
